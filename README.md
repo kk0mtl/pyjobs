@@ -2,6 +2,7 @@
 
 스크래핑 대상 사이트
 We Work Remotely(WWR) : https://weworkremotely.com/
+
 indeed(인디드) : https://kr.indeed.com/
 
 주요한 파이썬 모듈 및 프레임워크 : Requests, Selenium, BeautifulSoup, Flask, Pico CSS
