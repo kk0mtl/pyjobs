@@ -1,6 +1,6 @@
 # pyjobs
 
-스크래핑 대상 사이트
+python web scrapper
 
 We Work Remotely(WWR) : https://weworkremotely.com/
 
